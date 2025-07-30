@@ -139,7 +139,7 @@ text-transform: uppercase;
     }
     
     .services-info{
-       
+       padding: 0 20px;
         margin-top: 8vh;
     }
     .services-card{
@@ -150,7 +150,7 @@ text-transform: uppercase;
     .services-card .logo img{
         vertical-align: middle;
         margin: 10px auto;
-        width: 5vw;
+        width: 4vw;
     }
     .card-info h3{
 margin-bottom: 20px;
@@ -162,7 +162,7 @@ text-transform: capitalize;
 }
 .customer-s{
 
-    background-image: url("/public/src/assets/Asset\ 8.png");
+    background-image: url("../assets/img/Asset\ 8.png");
     background-size: 100% 100%;
     background-position: center;
     
@@ -176,7 +176,7 @@ text-transform: capitalize;
     font-size: 3rem;
    }   
    .customer-text p{
-    width: 40%;
+    width: 60%;
     color: gray;
     margin-block: 40px;
    }  
