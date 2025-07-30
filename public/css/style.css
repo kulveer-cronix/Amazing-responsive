@@ -87,7 +87,7 @@ font-family: "Bangers";
 }
 .hero{
     /* background: linear-gradient(background: rgb(65,105,225); */
-background: linear-gradient( rgba(5, 9, 19, 0.6), rgba(51, 77, 90, 0.6)),url(/img/Rectangle.png) ;
+background: linear-gradient( rgba(5, 9, 19, 0.6), rgba(51, 77, 90, 0.6)),url("/public/src/img/Rectangle.png") ;
     background-size: 100% 100%;
     align-items: center;
     display: flex;
@@ -162,7 +162,7 @@ text-transform: capitalize;
 }
 .customer-s{
 
-    background-image: url(/img/Asset\ 8.png);
+    background-image: url("/public/src/img/Asset\ 8.png");
     background-size: 100% 100%;
     background-position: center;
     
